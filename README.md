@@ -1,2 +1,2 @@
-# bounceOff-Algorithm
-A code that contains an algorithm which detects the touch of another entity and reverses its current trajectory.
+# p5.play-boilerplate
+Boiler plate for p5.play
